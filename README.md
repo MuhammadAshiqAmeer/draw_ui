@@ -4,7 +4,7 @@ This code creates an HTML canvas element and a submit button, along with JavaScr
 ```
     !git clone https://github.com/MuhammadAshiqAmeer/draw_ui.git
 
-    %run /content/8409b3feec20f159d8a50b0a811d3bca/draw.py
+    %run /content/draw_ui/draw.py
 
     draw(filename = "your_name_here.png", w=400, h=400, line_width=15)
 ```
